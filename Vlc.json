@@ -1,0 +1,16 @@
+{
+  "version": "3.0.21",
+  "homepage": "https://example.com/Vlc",
+  "description": "Descripción de Vlc",
+  "license": "MIT",
+  "architecture": "x64",
+  "url": "https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe",
+  "hash": "9742689a50e96ddc04d80ceff046b28da2beefd617be18166f8c5e715ec60c59",
+  "installer": {
+    "executable": "vlc-3.0.21-win64.exe"
+  },
+  "bin": [
+    "Vlc.exe"
+  ],
+  "name": "Vlc"
+}
