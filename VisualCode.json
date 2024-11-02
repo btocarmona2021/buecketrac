@@ -1,0 +1,15 @@
+{
+  "version": "1.95.1",
+  "homepage": "https://example.com/VisualCode",
+  "description": "Descripción de VisualCode",
+  "license": "MIT",
+  "architecture": "x64",
+  "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/65edc4939843c90c34d61f4ce11704f09d3e5cb6/VSCodeUserSetup-x64-1.95.1.exe",
+  "hash": "8ea6fc9b72b2a3f0e67b35af71fba5d2218acbcc78fa8451796b69567b04cfba",
+  "bin": [],
+  "installer": {
+    "executable": "VSCodeUserSetup-x64-1.95.1.exe",
+    "args": []
+  },
+  "name": "VisualCode"
+}
