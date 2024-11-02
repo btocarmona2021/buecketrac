@@ -1,0 +1,16 @@
+{
+  "version": "4.3",
+  "homepage": "https://example.com/Godot",
+  "description": "Descripción de Godot",
+  "license": "MIT",
+  "architecture": "x64",
+  "url": "https://github.com/godotengine/godot/releases/download/4.3-stable/Godot_v4.3-stable_win64.exe.zip",
+  "hash": "8f2c75b734bd956027ae3ca92c41f78b5d5a255dacc0f20e4e3c523c545ad410",
+  "bin": [
+    "Godot.exe"
+  ],
+  "installer": {
+    "executable": "Godot_v4.3-stable_win64.exe.zip"
+  },
+  "name": "Godot"
+}
