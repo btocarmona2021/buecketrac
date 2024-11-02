@@ -1,0 +1,16 @@
+{
+  "version": "3.0.0",
+  "homepage": "https://example.com/Blender",
+  "description": "Descripción de Blender",
+  "license": "MIT",
+  "architecture": "x64",
+  "url": "https://download.blender.org/release/Blender3.0/blender-3.0.0-windows-x64.zip",
+  "hash": "1d94673d8b8314e75580db6cb3bdaaf3dddf9bdeb70961f04ecb0006b9cc76b3",
+  "installer": {
+    "executable": "blender-3.0.0-windows-x64.zip"
+  },
+  "bin": [
+    "Blender.exe"
+  ],
+  "name": "Blender"
+}
